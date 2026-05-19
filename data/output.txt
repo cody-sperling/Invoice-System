@@ -1,0 +1,424 @@
++------------------------------------------------------------------------------------------------+
+|Summary Report - By Total                                                                       |
++------------------------------------------------------------------------------------------------+
+Invoice#                                Customer                 #Items         Tax       Total
+ebba97d6-00f1-4237-a519-8d8fc18d8756    Redwood Analytics            0       $0.00       $0.00
+a0b1ba59-8104-47c4-a090-59a1b2ce66b6    Iron River Mining Co         8    $2480.07   $40469.53
+69a5b912-278d-4b42-97c5-8a1f2d20a1fc    Great Plains Transport       3     $303.43    $6133.11
+9d50cb44-ce7d-4464-a2da-499477df1d85    Clearwater Systems          11     $775.47   $16961.99
+bf77a2cf-3cc0-4bcf-9dc4-b6c94c8611ba    Golden Prairie Foods         0       $0.00       $0.00
+cd640ad6-083b-4da1-8d94-5d31ff3c5018    Clearwater Systems           6     $294.38    $9639.38
+132986d5-14f5-4516-8eca-d41316ab7580    Evergreen Holdings           4      $29.61    $1389.56
+5e9e5ea4-ae11-44f6-89ff-2f5d3dc87ab6    Summit Outdoor Gear          9       $0.00    $2634.78
+7505cbca-4d1e-4238-acb5-c452b9f2f42e    Quantum Data Labs            2       $0.00     $342.85
+8095334b-5f6c-458b-9bf1-bcedaf386574    Northstar Logistics          7       $0.00    $1940.73
++------------------------------------------------------------------------------------------------+
+                                                                    50    $3882.96   $79511.93
++------------------------------------------------------------------------------------------------+
+|Company Invoice Summary Report                                                                  |
++------------------------------------------------------------------------------------------------+
+Company                                 # Invoices               Grand Total
+
+Northstar Logistics                     1                        $1940.73
+Silverline Manufacturing                0                        $0.00
+Blue Horizon Tech                       0                        $0.00
+Evergreen Holdings                      1                        $1389.56
+Atlas Industrial                        0                        $0.00
+Granite Peak Construction               0                        $0.00
+Redwood Analytics                       1                        $0.00
+Midwest Freight Co                      0                        $0.00
+Sunridge Energy                         0                        $0.00
+Clearwater Systems                      2                        $26601.37
+Ironclad Security                       0                        $0.00
+Golden Prairie Foods                    1                        $0.00
+Vertex Software Group                   0                        $0.00
+Pioneer Ag Supply                       0                        $0.00
+Oak & Stone Retail                      0                        $0.00
+Frontier Aviation Services              0                        $0.00
+Metro Urban Planning                    0                        $0.00
+Lighthouse Marketing                    0                        $0.00
+Great Plains Transport                  1                        $6133.11
+North Valley Medical Supply             0                        $0.00
+Quantum Data Labs                       1                        $342.85
+Summit Outdoor Gear                     1                        $2634.78
+Iron River Mining Co                    1                        $40469.53
+Capitol Consulting Group                0                        $0.00
+Harborview Shipping                     0                        $0.00
++------------------------------------------------------------------------------------------------+
+                                        10                       $79511.93
+
+Invoice# (ebba97d6-00f1-4237-a519-8d8fc18d8756)
+Date:	2025-01-29
+Customer:
+Redwood Analytics (de7b5c1f-6a77-4c59-a7e6-8d5d4f1f5d0a)
+Morican, Isabella (76458828-2d7c-8323-d23b-af698a1b8cc0)
+	[imoricana@samsung.com, isabella.morican5@gmail.com, isabella.morican11@outlook.com]
+	991 Mission St
+	San Francisco CA 94105
+Sales Person:
+Myrkus, Terence (fbb67de6-6065-34af-fba8-5ecccafa4c69)
+	[tmyrkus1v@globo.com, terence.myrkus21@yahoo.com]
+Items (0)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                        $0.00                         $0.00
+Grand Total                                                                                    $0.00
+Invoice# (a0b1ba59-8104-47c4-a090-59a1b2ce66b6)
+Date:	2025-04-24
+Customer:
+Iron River Mining Co (9d2a4c6e-7b1f-4a8c-9d3e-5f1b3c6a7e2d)
+Haensel, Fannie (4e174aa3-cfb8-c3dc-3fab-b2aa9c4dfe35)
+	[fhaenselt@ucla.edu, fannie.haensel42@gmail.com, fannie.haensel96@yahoo.com]
+	44 Quarry Ln
+	Duluth MN 55802
+Sales Person:
+Lamping, Eolande (8309ac2f-8f0c-4ede-0d5b-efbc2a742bc8)
+	[elamping2n@pen.io, eolande.lamping81@outlook.com, eolande.lamping33@yahoo.com]
+Items (8)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1f5d4e3c-8c1b-4d7e-a6b1-2f4a9d7e1001 (Purchase)	24in Monitor
+	4 units @ $189.99/unit
+                                                                $39.90                       $759.96
+2e6c7a1b-4d9f-48e3-9a6d-7c1e5b2f1002 (Purchase)	27in Monitor
+	8 units @ $259.99/unit
+                                                               $109.20                      $2079.92
+3a4d8c7b-9e1f-4c2a-8b7e-5c1d3f9a1003 (Lease)	Laptop Computer
+	12 units
+                                                               $350.00                       $975.00
+4c1e7a9d-5f3b-4a2d-9e6c-7b1f8a3d1004 (Purchase)	Desktop Workstation
+	16 units @ $1499.99/unit
+                                                              $1259.99                     $23999.84
+5d9a2b4c-6f1e-4c8a-b7d2-3e1f6a9c1005 (Purchase)	Office Printer
+	2 units @ $349.99/unit
+                                                                $36.75                       $699.98
+6e3c5a7d-8f1b-4d2a-b9c6-5a7e1d4f1006 (Lease)	Color Laser Printer
+	6 units
+                                                               $175.00                       $300.00
+7f1b4a9c-3d8e-4c6a-a7b2-9e5d1f3c1007 (Purchase)	Projector
+	10 units @ $549.99/unit
+                                                               $288.74                      $5499.90
+8a7d3e1b-5c9f-4b2a-b8e1-2c6d9f7a1008 (Purchase)	Conference Camera
+	14 units @ $299.99/unit
+                                                               $220.49                      $4199.86
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                     $2480.07                     $38514.46
+Grand Total                                                                                $40469.53
+Invoice# (69a5b912-278d-4b42-97c5-8a1f2d20a1fc)
+Date:	2025-05-16
+Customer:
+Great Plains Transport (4f6d8a1c-3e5b-4a9d-8c7e-2f1b3d5a6c9e)
+Roscamp, Delmor (5bcf639c-ffca-b9e5-cfd2-ae100c7daf5c)
+	[droscampn@google.com, delmor.roscamp75@gmail.com]
+	455 Rail Yard Rd
+	Kansas City MO 64106
+Sales Person:
+Franchi, Herc (950034e2-b2bb-e9a4-57ab-73be7ee1ea2a)
+	[hfranchi7@bandcamp.com, herc.franchi91@yahoo.com, herc.franchi90@gmail.com]
+Items (3)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+9b1c6e7d-4a3f-4d9b-8e2a-5c1f7a3d1009 (Lease)	External Hard Drive
+	10 units
+                                                                 $0.00                        $50.00
+0c7a3f1d-9e5b-4c2a-b8d6-1a3e7f9c1010 (Purchase)	Network Switch
+	14 units @ $219.99/unit
+                                                               $161.69                      $3079.86
+1d6a3c9b-7f1e-4a5c-b8d2-3f9a1e7c1011 (Purchase)	Wireless Router
+	18 units @ $149.99/unit
+                                                               $141.74                      $2699.82
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                      $303.43                      $5829.68
+Grand Total                                                                                 $6133.11
+Invoice# (9d50cb44-ce7d-4464-a2da-499477df1d85)
+Date:	2025-01-23
+Customer:
+Clearwater Systems (b7b3d9c1-43a6-4e7b-9d91-0c3c8a7b9c6e)
+Goldring, Joela (f1d3474b-e732-a7f6-fde5-19246bf1fb0f)
+	[jgoldring2f@hao123.com, joela.goldring77@outlook.com, joela.goldring18@gmail.com]
+	110 Harbor Way
+	Tampa FL 33602
+Sales Person:
+Morican, Isabella (76458828-2d7c-8323-d23b-af698a1b8cc0)
+	[imoricana@samsung.com, isabella.morican5@gmail.com, isabella.morican11@outlook.com]
+Items (11)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2e3c7f9a-8a1d-4b5c-b6e3-7f2c9d1a1012 (Lease)	3D Printer
+	1 units
+                                                                 $0.00                        $37.50
+3f1a9d6c-4b7e-4c3a-b8d5-6e2f1c9a1013 (Purchase)	Scanner
+	5 units @ $179.99/unit
+                                                                $47.25                       $899.95
+4a7c1e9d-5b3f-4d8c-b2a6-7c1f3e9d1014 (Purchase)	Tablet Device
+	9 units @ $399.99/unit
+                                                               $189.00                      $3599.91
+5b9e3c1d-6f7a-4a8c-b5d2-1e9c7f3a1015 (Lease)	Label Printer
+	13 units
+                                                               $175.00                       $261.66
+6c1a7f3e-8d5b-4c9a-b2e7-3f1a9d6c1016 (Service)	Network Installation
+	5.50 hours @ $250.00/hour
+Serviced By:
+	Nickols, Cyrille (fac84d72-5bbe-acb8-239b-ebb48b0c1f78)
+	[]
+                                                                $47.25                      $1500.00
+7d2b8a4e-9c1f-4a7d-b5e2-6f3a1c9b1017 (Service)	IT Support Visit
+	4.00 hours @ $120.00/hour
+Serviced By:
+	Albrecht, Lona (c35a8b55-ae50-dcab-e6de-42c0fb705f0f)
+	[lalbrechto@mysql.com, lona.albrecht14@yahoo.com, lona.albrecht16@outlook.com]
+                                                                $19.06                       $605.00
+8e4c1b7d-5f3a-4d9b-b6a2-7c1e3f9a1018 (Service)	Hardware Repair
+	2.50 hours @ $140.00/hour
+Serviced By:
+	O'Crevan, Kara (a4139f34-eda3-5d7a-ccf0-ce9ff34f6b00)
+	[kocrevanw@rediff.com, kara.o'crevan65@outlook.com]
+                                                                $14.96                       $475.00
+9f1a3e7c-6d2b-4a5c-b9e1-3c7d5f8a1019 (Service)	Printer Maintenance
+	9.50 hours @ $95.00/hour
+Serviced By:
+	Ferrey, Jenine (def8acaa-ea18-4819-aef2-c33a8eebc1c2)
+	[jferrey14@ycombinator.com, jenine.ferrey48@gmail.com, jenine.ferrey16@icloud.com]
+                                                                $32.37                      $1027.50
+0a7d5c3b-8f1e-4b9a-b2c6-1f3e7a9d1020 (Service)	Data Backup Setup
+	8.00 hours @ $110.00/hour
+Serviced By:
+	Stonman, Lombard (a472a250-4bcd-6d2c-3e90-aa784aeda15f)
+	[]
+                                                                $31.66                      $1005.00
+1b3f9a6c-4d7e-4a1c-b8d5-6e3a7c2f1021 (Service)	Cloud Migration Service
+	6.50 hours @ $300.00/hour
+Serviced By:
+	Brailey, Kerianne (a67dee2a-ef4d-02a7-bdc7-cb0cdc11f096)
+	[kbrailey1k@phoca.cz, kerianne.brailey4@outlook.com, kerianne.brailey59@gmail.com]
+                                                                $65.36                      $2075.00
+2c5a7e1d-9f3b-4c8a-b6d2-7a1f3e9c1022 (Service)	Website Development
+	5.00 hours @ $950.00/hour
+Serviced By:
+	Brayshaw, Lurlene (cbaa82a4-eb88-97c3-20a4-0e2ac460704e)
+	[lbrayshaw1s@amazon.com, lurlene.brayshaw43@outlook.com]
+                                                               $153.56                      $4875.00
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                      $775.47                     $16361.52
+Grand Total                                                                                $16961.99
+Invoice# (bf77a2cf-3cc0-4bcf-9dc4-b6c94c8611ba)
+Date:	2025-02-16
+Customer:
+Golden Prairie Foods (d0c5e7f8-5f41-45e9-bc4e-2b1c6d9e7f3a)
+Raraty, Pip (32cd84e2-b2bb-bf71-1a73-80fac727f110)
+	[praraty2j@desdev.cn, pip.raraty29@gmail.com]
+	129 Harvest Ln
+	Omaha NE 68102
+Sales Person:
+Tureville, Dale (95ed1ab1-765f-0b3e-2bab-55e4fb1fafbf)
+	[dtureville1d@howstuffworks.com, dale.tureville91@outlook.com]
+Items (0)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                        $0.00                         $0.00
+Grand Total                                                                                    $0.00
+Invoice# (cd640ad6-083b-4da1-8d94-5d31ff3c5018)
+Date:	2025-02-15
+Customer:
+Clearwater Systems (b7b3d9c1-43a6-4e7b-9d91-0c3c8a7b9c6e)
+Goldring, Joela (f1d3474b-e732-a7f6-fde5-19246bf1fb0f)
+	[jgoldring2f@hao123.com, joela.goldring77@outlook.com, joela.goldring18@gmail.com]
+	110 Harbor Way
+	Tampa FL 33602
+Sales Person:
+Whardley, Stephi (02d27616-d0e1-1cf0-9cb9-b693b333ffae)
+	[swhardley1y@google.com.au, stephi.whardley62@yahoo.com]
+Items (6)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+3d7b1f9c-5a4e-4d2a-b8c6-1e3f7a9d1023 (Service)	Software Installation
+	6.50 hours @ $80.00/hour
+Serviced By:
+	Konig, Leonie (eb5b9b5e-c9cc-a61b-f04b-ee8b444735c2)
+	[lkonig1p@pcworld.com, leonie.konig20@outlook.com, leonie.konig65@yahoo.com]
+                                                                $20.32                       $645.00
+4e1c3a9d-6f5b-4a7e-b2d8-9c1f3a7e1024 (Service)	Security Audit
+	5.00 hours @ $275.00/hour
+Serviced By:
+	Elen, Stanfield (c7032fda-a2b1-9fbc-797e-a03fdd4d06c1)
+	[selen1x@booking.com, stanfield.elen43@gmail.com]
+                                                                $47.25                      $1500.00
+5f9a7c1d-3e6b-4d2a-b8c5-7a1e3f9d1025 (Service)	Database Optimization
+	3.50 hours @ $310.00/hour
+Serviced By:
+	Hegerty, Robbin (2d016a8a-1ec5-f36f-dcee-fdfb73e57ee3)
+	[rhegerty25@free.fr, robbin.hegerty63@outlook.com]
+                                                                $38.12                      $1210.00
+6a1e3f7d-9b5c-4c2a-b8d6-3f1a7e9c1026 (Service)	System Configuration
+	2.00 hours @ $130.00/hour
+Serviced By:
+	Heinlein, Margy (51bec4dc-3ca5-0a07-be58-7fcaef6da944)
+	[mheinlein2d@amazon.co.uk, margy.heinlein20@gmail.com, margy.heinlein8@gmail.com]
+                                                                $12.13                       $385.00
+7b5a1c9e-8d3f-4a7b-b2e6-1f9c3d7a1027 (Service)	Server Maintenance
+	9.00 hours @ $220.00/hour
+Serviced By:
+	Haucke, Issie (bbdc4f1e-0c3f-5de7-b5df-d276ad643dca)
+	[ihaucke2l@so-net.ne.jp, issie.haucke93@outlook.com, issie.haucke4@gmail.com]
+                                                                $66.31                      $2105.00
+8c3d7f1a-6b5e-4c9a-b8d2-7e1f3a9c1028 (Service)	Data Recovery
+	7.50 hours @ $450.00/hour
+Serviced By:
+	Haslegrave, Thom (fec5afdd-8e04-43aa-f333-fbb8073cd154)
+	[thaslegrave1@ow.ly, thom.haslegrave3@gmail.com, thom.haslegrave15@gmail.com]
+                                                               $110.25                      $3500.00
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                      $294.38                      $9345.00
+Grand Total                                                                                 $9639.38
+Invoice# (132986d5-14f5-4516-8eca-d41316ab7580)
+Date:	2025-03-01
+Customer:
+Evergreen Holdings (1a55b7e7-9f7c-4c9a-8c9a-bb0a30fdc7df)
+Simms, Bayard (6577839d-62f8-fcbc-89a3-eb2caac0c280)
+	[bsimms3@ehow.com, bayard.simms59@outlook.com, bayard.simms24@outlook.com]
+	221 Lakeview Rd
+	Boise ID 83702
+Sales Person:
+Winkett, Kile (7f3717e3-8ead-63fe-f060-6bef7dfeb3ee)
+	[kwinkettr@google.nl, kile.winkett51@icloud.com]
+Items (4)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+9d7e1c3a-5f6b-4a8c-b2d9-1a3e7f9c1029 (Service)	Training Session
+	3.00 hours @ $160.00/hour
+Serviced By:
+	Simms, Bayard (6577839d-62f8-fcbc-89a3-eb2caac0c280)
+	[bsimms3@ehow.com, bayard.simms59@outlook.com, bayard.simms24@outlook.com]
+                                                                $19.06                       $605.00
+0e1f7a3c-8b5d-4c2a-b9e6-3f7a1c9d1030 (Service)	Onsite Consultation
+	1.50 hours @ $140.00/hour
+Serviced By:
+	Denton, Wallie (3f05d3fe-e3ea-c5ac-d4a1-2069e3b6201b)
+	[wdentonb@bloglines.com, wallie.denton34@icloud.com]
+                                                                $10.55                       $335.00
+1a3c5e7f-9d2b-4a8c-b6e1-7f3a1d9c1031 (License)	Windows Pro License
+	365 days (2025-04-03 ---> 2026-04-02) @ $129.99 / year
+	Service Fee: $49.99
+                                                                 $0.00                       $179.98
+2b4d6f8a-1c3e-4c9a-b7d2-9a1f3e7c1032 (License)	Microsoft Office License
+	730 days (2025-04-05 ---> 2027-04-04) @ $99.99 / year
+	Service Fee: $39.99
+                                                                 $0.00                       $239.97
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                       $29.61                      $1359.95
+Grand Total                                                                                 $1389.56
+Invoice# (5e9e5ea4-ae11-44f6-89ff-2f5d3dc87ab6)
+Date:	2025-03-23
+Customer:
+Summit Outdoor Gear (8c1f3d5a-6b7e-4a9c-8d2e-1f3a5c7b9d4e)
+Haucke, Issie (bbdc4f1e-0c3f-5de7-b5df-d276ad643dca)
+	[ihaucke2l@so-net.ne.jp, issie.haucke93@outlook.com, issie.haucke4@gmail.com]
+	100 Alpine Rd
+	Boulder CO 80302
+Sales Person:
+Elen, Stanfield (c7032fda-a2b1-9fbc-797e-a03fdd4d06c1)
+	[selen1x@booking.com, stanfield.elen43@gmail.com]
+Items (9)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+3c5e7a9d-2b4f-4a8c-b6d1-1f3a7c9e1033 (License)	Antivirus License
+	365 days (2025-04-25 ---> 2026-04-24) @ $59.99 / year
+	Service Fee: $19.99
+                                                                 $0.00                        $79.98
+4d6f8a1c-3e5b-4a9c-b7d2-7c1e3f9a1034 (License)	AutoCAD License
+	730 days (2025-04-27 ---> 2027-04-26) @ $299.99 / year
+	Service Fee: $99.99
+                                                                 $0.00                       $699.97
+5e7a9c1d-4b6f-4a8c-b2d7-3f1a9e7c1035 (License)	Adobe Creative Cloud License
+	365 days (2025-04-29 ---> 2026-04-28) @ $239.99 / year
+	Service Fee: $79.99
+                                                                 $0.00                       $319.98
+6f8a1c3d-5e7b-4c9a-b6d2-1a3f7e9c1036 (License)	SQL Server License
+	730 days (2025-05-01 ---> 2027-04-30) @ $269.99 / year
+	Service Fee: $89.99
+                                                                 $0.00                       $629.97
+7a9c1e3d-6b5f-4a8c-b7d2-3f1c9e7a1037 (License)	VMware License
+	365 days (2025-05-03 ---> 2026-05-02) @ $199.99 / year
+	Service Fee: $69.99
+                                                                 $0.00                       $269.98
+8b1d3f7a-9c5e-4c2a-b8d6-1a7e3f9c1038 (License)	Slack Enterprise License
+	730 days (2025-05-05 ---> 2027-05-04) @ $89.99 / year
+	Service Fee: $29.99
+                                                                 $0.00                       $209.97
+9c3e7a1d-5f6b-4a8c-b2d9-3f1a7c9e1039 (License)	Zoom Business License
+	365 days (2025-03-23 ---> 2026-03-22) @ $79.99 / year
+	Service Fee: $24.99
+                                                                 $0.00                       $104.98
+0d5f7a1c-8b3e-4c9a-b6d2-7e1a3f9c1040 (License)	Dropbox Business License
+	730 days (2025-03-25 ---> 2027-03-24) @ $69.99 / year
+	Service Fee: $19.99
+                                                                 $0.00                       $159.97
+1e7a3c9d-6b5f-4a8c-b7d2-3f1e9a7c1041 (License)	GitHub Enterprise License
+	365 days (2025-03-27 ---> 2026-03-26) @ $119.99 / year
+	Service Fee: $39.99
+                                                                 $0.00                       $159.98
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                        $0.00                      $2634.78
+Grand Total                                                                                 $2634.78
+Invoice# (7505cbca-4d1e-4238-acb5-c452b9f2f42e)
+Date:	2025-03-15
+Customer:
+Quantum Data Labs (7b9e2c4d-5f1a-4a8c-9d3e-6f7a1c2b5d9e)
+Ashbee, Zared (66a77d27-f8bc-cf51-db46-5053677cbc48)
+	[zashbee29@imdb.com, zared.ashbee26@yahoo.com]
+	600 Silicon Way
+	San Diego CA 92101
+Sales Person:
+Getcliffe, Carolyn (e0888bd6-db2b-7ef7-07ed-a3db3f97fd15)
+	[cgetcliffeq@woothemes.com, carolyn.getcliffe34@outlook.com, carolyn.getcliffe85@icloud.com]
+Items (2)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+2f9c1a3e-5d7b-4c8a-b6d2-1a3e7f9c1042 (License)	Atlassian Jira License
+	548 days (2025-04-26 ---> 2026-10-25) @ $104.99 / year
+	Service Fee: $34.99
+                                                                 $0.00                       $192.62
+3a1d7c9e-8b5f-4a8c-b2d6-7e3f1a9c1043 (License)	Tableau License
+	183 days (2025-04-28 ---> 2025-10-27) @ $179.99 / year
+	Service Fee: $59.99
+                                                                 $0.00                       $150.23
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                        $0.00                       $342.85
+Grand Total                                                                                  $342.85
+Invoice# (8095334b-5f6c-458b-9bf1-bcedaf386574)
+Date:	2025-05-20
+Customer:
+Northstar Logistics (5b6d2c3c-2a63-4b64-9f6e-7c5b87c9c9e1)
+McClenaghan, Beatrix (0b86cffa-7e9d-ce5f-43df-6918c1938b67)
+	[bmcclenaghan0@walmart.com, beatrix.mcclenaghan24@icloud.com, beatrix.mcclenaghan67@outlook.com]
+	1842 Pinecrest Dr
+	Denver CO 80202
+Sales Person:
+Drance, Rolfe (36d7aabb-fb62-e8ff-caf3-cf8113a8f4fe)
+	[rdrance2@usgs.gov, rolfe.drance63@icloud.com]
+Items (7)                                                         Tax                         Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+4b3e9a1d-6f7c-4c8a-b2d5-1a7e3f9c1044 (License)	Power BI License
+	184 days (2025-07-03 ---> 2026-01-02) @ $89.99 / year
+	Service Fee: $29.99
+                                                                 $0.00                        $75.35
+5c7a1e3d-9b5f-4a8c-b6d2-3f1e7a9c1045 (License)	Salesforce CRM License
+	549 days (2025-05-21 ---> 2026-11-20) @ $299.99 / year
+	Service Fee: $99.99
+                                                                 $0.00                       $551.21
+6d9c3e1a-5f7b-4c8a-b2d6-7e1a3f9c1046 (License)	Oracle DB License
+	184 days (2025-05-23 ---> 2025-11-22) @ $399.99 / year
+	Service Fee: $129.99
+                                                                 $0.00                       $331.63
+7e1a3c9d-6b5f-4a8c-b7d2-3f1c9e7a1047 (License)	QuickBooks License
+	549 days (2025-05-25 ---> 2026-11-24) @ $119.99 / year
+	Service Fee: $39.99
+                                                                 $0.00                       $220.47
+8f3c7a1d-5e6b-4c8a-b2d9-1a3e7f9c1048 (License)	Matlab License
+	184 days (2025-05-27 ---> 2025-11-26) @ $249.99 / year
+	Service Fee: $79.99
+                                                                 $0.00                       $206.01
+9a5e1c3d-7b6f-4a8c-b2d7-3f1a9e7c1049 (License)	SPSS License
+	549 days (2025-05-29 ---> 2026-11-28) @ $179.99 / year
+	Service Fee: $59.99
+                                                                 $0.00                       $330.71
+0b7a3e1c-9d5f-4c8a-b6d2-1a3e7f9c1050 (License)	ArcGIS License
+	183 days (2025-05-31 ---> 2025-11-29) @ $269.99 / year
+	Service Fee: $89.99
+                                                                 $0.00                       $225.35
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SubTotals                                                        $0.00                      $1940.73
+Grand Total                                                                                 $1940.73

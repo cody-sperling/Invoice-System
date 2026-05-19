@@ -1,0 +1,51 @@
+uuid,type,name,field(s)
+1f5d4e3c-8c1b-4d7e-a6b1-2f4a9d7e1001,E,24in Monitor,189.99
+2e6c7a1b-4d9f-48e3-9a6d-7c1e5b2f1002,E,27in Monitor,259.99
+3a4d8c7b-9e1f-4c2a-8b7e-5c1d3f9a1003,E,Laptop Computer,1249.99
+4c1e7a9d-5f3b-4a2d-9e6c-7b1f8a3d1004,E,Desktop Workstation,1499.99
+5d9a2b4c-6f1e-4c8a-b7d2-3e1f6a9c1005,E,Office Printer,349.99
+6e3c5a7d-8f1b-4d2a-b9c6-5a7e1d4f1006,E,Color Laser Printer,499.99
+7f1b4a9c-3d8e-4c6a-a7b2-9e5d1f3c1007,E,Projector,549.99
+8a7d3e1b-5c9f-4b2a-b8e1-2c6d9f7a1008,E,Conference Camera,299.99
+9b1c6e7d-4a3f-4d9b-8e2a-5c1f7a3d1009,E,External Hard Drive,119.99
+0c7a3f1d-9e5b-4c2a-b8d6-1a3e7f9c1010,E,Network Switch,219.99
+1d6a3c9b-7f1e-4a5c-b8d2-3f9a1e7c1011,E,Wireless Router,149.99
+2e3c7f9a-8a1d-4b5c-b6e3-7f2c9d1a1012,E,3D Printer,899.99
+3f1a9d6c-4b7e-4c3a-b8d5-6e2f1c9a1013,E,Scanner,179.99
+4a7c1e9d-5b3f-4d8c-b2a6-7c1f3e9d1014,E,Tablet Device,399.99
+5b9e3c1d-6f7a-4a8c-b5d2-1e9c7f3a1015,E,Label Printer,159.99
+6c1a7f3e-8d5b-4c9a-b2e7-3f1a9d6c1016,S,Network Installation,250.00
+7d2b8a4e-9c1f-4a7d-b5e2-6f3a1c9b1017,S,IT Support Visit,120.00
+8e4c1b7d-5f3a-4d9b-b6a2-7c1e3f9a1018,S,Hardware Repair,140.00
+9f1a3e7c-6d2b-4a5c-b9e1-3c7d5f8a1019,S,Printer Maintenance,95.00
+0a7d5c3b-8f1e-4b9a-b2c6-1f3e7a9d1020,S,Data Backup Setup,110.00
+1b3f9a6c-4d7e-4a1c-b8d5-6e3a7c2f1021,S,Cloud Migration Service,300.00
+2c5a7e1d-9f3b-4c8a-b6d2-7a1f3e9c1022,S,Website Development,950.00
+3d7b1f9c-5a4e-4d2a-b8c6-1e3f7a9d1023,S,Software Installation,80.00
+4e1c3a9d-6f5b-4a7e-b2d8-9c1f3a7e1024,S,Security Audit,275.00
+5f9a7c1d-3e6b-4d2a-b8c5-7a1e3f9d1025,S,Database Optimization,310.00
+6a1e3f7d-9b5c-4c2a-b8d6-3f1a7e9c1026,S,System Configuration,130.00
+7b5a1c9e-8d3f-4a7b-b2e6-1f9c3d7a1027,S,Server Maintenance,220.00
+8c3d7f1a-6b5e-4c9a-b8d2-7e1f3a9c1028,S,Data Recovery,450.00
+9d7e1c3a-5f6b-4a8c-b2d9-1a3e7f9c1029,S,Training Session,160.00
+0e1f7a3c-8b5d-4c2a-b9e6-3f7a1c9d1030,S,Onsite Consultation,140.00
+1a3c5e7f-9d2b-4a8c-b6e1-7f3a1d9c1031,L,Windows Pro License,49.99,129.99
+2b4d6f8a-1c3e-4c9a-b7d2-9a1f3e7c1032,L,Microsoft Office License,39.99,99.99
+3c5e7a9d-2b4f-4a8c-b6d1-1f3a7c9e1033,L,Antivirus License,19.99,59.99
+4d6f8a1c-3e5b-4a9c-b7d2-7c1e3f9a1034,L,AutoCAD License,99.99,299.99
+5e7a9c1d-4b6f-4a8c-b2d7-3f1a9e7c1035,L,Adobe Creative Cloud License,79.99,239.99
+6f8a1c3d-5e7b-4c9a-b6d2-1a3f7e9c1036,L,SQL Server License,89.99,269.99
+7a9c1e3d-6b5f-4a8c-b7d2-3f1c9e7a1037,L,VMware License,69.99,199.99
+8b1d3f7a-9c5e-4c2a-b8d6-1a7e3f9c1038,L,Slack Enterprise License,29.99,89.99
+9c3e7a1d-5f6b-4a8c-b2d9-3f1a7c9e1039,L,Zoom Business License,24.99,79.99
+0d5f7a1c-8b3e-4c9a-b6d2-7e1a3f9c1040,L,Dropbox Business License,19.99,69.99
+1e7a3c9d-6b5f-4a8c-b7d2-3f1e9a7c1041,L,GitHub Enterprise License,39.99,119.99
+2f9c1a3e-5d7b-4c8a-b6d2-1a3e7f9c1042,L,Atlassian Jira License,34.99,104.99
+3a1d7c9e-8b5f-4a8c-b2d6-7e3f1a9c1043,L,Tableau License,59.99,179.99
+4b3e9a1d-6f7c-4c8a-b2d5-1a7e3f9c1044,L,Power BI License,29.99,89.99
+5c7a1e3d-9b5f-4a8c-b6d2-3f1e7a9c1045,L,Salesforce CRM License,99.99,299.99
+6d9c3e1a-5f7b-4c8a-b2d6-7e1a3f9c1046,L,Oracle DB License,129.99,399.99
+7e1a3c9d-6b5f-4a8c-b7d2-3f1c9e7a1047,L,QuickBooks License,39.99,119.99
+8f3c7a1d-5e6b-4c8a-b2d9-1a3e7f9c1048,L,Matlab License,79.99,249.99
+9a5e1c3d-7b6f-4a8c-b2d7-3f1a9e7c1049,L,SPSS License,59.99,179.99
+0b7a3e1c-9d5f-4c8a-b6d2-1a3e7f9c1050,L,ArcGIS License,89.99,269.99

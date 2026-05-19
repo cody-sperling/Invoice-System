@@ -1,0 +1,419 @@
+[
+  {
+    "companyUuid": "5b6d2c3c-2a63-4b64-9f6e-7c5b87c9c9e1",
+    "companyContact": {
+      "uuid": "0b86cffa-7e9d-ce5f-43df-6918c1938b67",
+      "firstName": "Beatrix",
+      "lastName": "McClenaghan",
+      "phoneNumber": "410-983-5922",
+      "emailList": [
+        "bmcclenaghan0@walmart.com",
+        "beatrix.mcclenaghan24@icloud.com",
+        "beatrix.mcclenaghan67@outlook.com"
+      ]
+    },
+    "name": "Northstar Logistics",
+    "address": {
+      "street": "1842 Pinecrest Dr",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202"
+    }
+  },
+  {
+    "companyUuid": "0eab6e74-d8c6-45b4-9b41-55dfc3eae2d5",
+    "companyContact": {
+      "uuid": "fec5afdd-8e04-43aa-f333-fbb8073cd154",
+      "firstName": "Thom",
+      "lastName": "Haslegrave",
+      "phoneNumber": "152-267-2275",
+      "emailList": [
+        "thaslegrave1@ow.ly",
+        "thom.haslegrave3@gmail.com",
+        "thom.haslegrave15@gmail.com"
+      ]
+    },
+    "name": "Silverline Manufacturing",
+    "address": {
+      "street": "772 Orchard St",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53703"
+    }
+  },
+  {
+    "companyUuid": "0c9e1df3-6bb5-4a5c-9c51-0f7b7c7e0c55",
+    "companyContact": {
+      "uuid": "36d7aabb-fb62-e8ff-caf3-cf8113a8f4fe",
+      "firstName": "Rolfe",
+      "lastName": "Drance",
+      "phoneNumber": "309-619-6543",
+      "emailList": [
+        "rdrance2@usgs.gov",
+        "rolfe.drance63@icloud.com"
+      ]
+    },
+    "name": "Blue Horizon Tech",
+    "address": {
+      "street": "905 Market Ave",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95113"
+    }
+  },
+  {
+    "companyUuid": "1a55b7e7-9f7c-4c9a-8c9a-bb0a30fdc7df",
+    "companyContact": {
+      "uuid": "6577839d-62f8-fcbc-89a3-eb2caac0c280",
+      "firstName": "Bayard",
+      "lastName": "Simms",
+      "phoneNumber": "805-100-3974",
+      "emailList": [
+        "bsimms3@ehow.com",
+        "bayard.simms59@outlook.com",
+        "bayard.simms24@outlook.com"
+      ]
+    },
+    "name": "Evergreen Holdings",
+    "address": {
+      "street": "221 Lakeview Rd",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83702"
+    }
+  },
+  {
+    "companyUuid": "a3cbec7c-3d4f-4a46-94a2-8db9a9a8c91d",
+    "companyContact": {
+      "uuid": "cb2bd66a-d7fd-6aa6-f7db-16b6cfa89aa2",
+      "firstName": "Beniamino",
+      "lastName": "Powland",
+      "phoneNumber": "534-217-4422",
+      "emailList": [
+        "bpowland4@trellian.com",
+        "beniamino.powland55@outlook.com",
+        "beniamino.powland24@yahoo.com"
+      ]
+    },
+    "name": "Atlas Industrial",
+    "address": {
+      "street": "4487 Red Oak Ln",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43215"
+    }
+  },
+  {
+    "companyUuid": "efec68e0-7fa2-4f62-97e4-0c8a0bdfb9b1",
+    "companyContact": {
+      "uuid": "da4d6c33-b4f1-4a14-b7a0-9b02b2d4e1b3"
+    },
+    "name": "Granite Peak Construction",
+    "address": {
+      "street": "6150 Ridgeway Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101"
+    }
+  },
+  {
+    "companyUuid": "de7b5c1f-6a77-4c59-a7e6-8d5d4f1f5d0a",
+    "companyContact": {
+      "uuid": "76458828-2d7c-8323-d23b-af698a1b8cc0",
+      "firstName": "Isabella",
+      "lastName": "Morican",
+      "phoneNumber": "508-453-3679",
+      "emailList": [
+        "imoricana@samsung.com",
+        "isabella.morican5@gmail.com",
+        "isabella.morican11@outlook.com"
+      ]
+    },
+    "name": "Redwood Analytics",
+    "address": {
+      "street": "991 Mission St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105"
+    }
+  },
+  {
+    "companyUuid": "c8cfa7e1-1db4-4a23-9c37-8f7a3c3a3d6f",
+    "companyContact": {
+      "uuid": "b3e3b9d4-6b72-4b4a-9b7c-9d0a3b4f7e13"
+    },
+    "name": "Midwest Freight Co",
+    "address": {
+      "street": "3401 Jackson Blvd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60604"
+    }
+  },
+  {
+    "companyUuid": "6f8d2e3e-bec5-4f93-bb0f-9c6a1f0c3e54",
+    "companyContact": {
+      "uuid": "3b1c6d1a-2c4e-4a5c-9e1b-7f5d9a2e6b1c"
+    },
+    "name": "Sunridge Energy",
+    "address": {
+      "street": "772 Desert Bloom Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85004"
+    }
+  },
+  {
+    "companyUuid": "b7b3d9c1-43a6-4e7b-9d91-0c3c8a7b9c6e",
+    "companyContact": {
+      "uuid": "f1d3474b-e732-a7f6-fde5-19246bf1fb0f",
+      "firstName": "Joela",
+      "lastName": "Goldring",
+      "phoneNumber": "952-288-5776",
+      "emailList": [
+        "jgoldring2f@hao123.com",
+        "joela.goldring77@outlook.com",
+        "joela.goldring18@gmail.com"
+      ]
+    },
+    "name": "Clearwater Systems",
+    "address": {
+      "street": "110 Harbor Way",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33602"
+    }
+  },
+  {
+    "companyUuid": "5a3e9b6a-3c9f-4e4d-a2b3-7c1f0e9d6a4b",
+    "companyContact": {
+      "uuid": "8e5b7c1d-9f2a-4c3b-8d5e-6f7a1c2d3b4e"
+    },
+    "name": "Ironclad Security",
+    "address": {
+      "street": "81 Federal St",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02110"
+    }
+  },
+  {
+    "companyUuid": "d0c5e7f8-5f41-45e9-bc4e-2b1c6d9e7f3a",
+    "companyContact": {
+      "uuid": "32cd84e2-b2bb-bf71-1a73-80fac727f110",
+      "firstName": "Pip",
+      "lastName": "Raraty",
+      "phoneNumber": "333-703-5408",
+      "emailList": [
+        "praraty2j@desdev.cn",
+        "pip.raraty29@gmail.com"
+      ]
+    },
+    "name": "Golden Prairie Foods",
+    "address": {
+      "street": "129 Harvest Ln",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68102"
+    }
+  },
+  {
+    "companyUuid": "8c1a2e3f-9b7d-4c6e-8a3d-7f5b1c2d4e6a",
+    "companyContact": {
+      "uuid": "9b3a7e1c-4d6f-4a8c-9e1b-2f5d7a3c6b4e"
+    },
+    "name": "Vertex Software Group",
+    "address": {
+      "street": "505 Innovation Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701"
+    }
+  },
+  {
+    "companyUuid": "7b2d6e5a-1c3f-4a9e-8b6d-5f2c3a7e1b9d",
+    "companyContact": {
+      "uuid": "1c7a3b5d-9f6e-4a8c-8b2d-7f3a1c5e6d4b"
+    },
+    "name": "Pioneer Ag Supply",
+    "address": {
+      "street": "900 Country Rd",
+      "city": "Des Moines",
+      "state": "IA",
+      "zip": "50309"
+    }
+  },
+  {
+    "companyUuid": "a5e7c3d1-4b6f-4a9d-8c1e-2f7a5b3d6c9e",
+    "companyContact": {
+      "uuid": "2d4f6a8c-1b3e-4c9d-8a7e-5f2b1c3d4e6a"
+    },
+    "name": "Oak \u0026 Stone Retail",
+    "address": {
+      "street": "447 Commerce St",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37203"
+    }
+  },
+  {
+    "companyUuid": "1e7c9b3d-6a4f-4b8c-9d2a-7f1e5c3b6a4d",
+    "companyContact": {
+      "uuid": "4f6b8a1c-3d5e-4a9c-8b7d-2f1a3c5e6d7b"
+    },
+    "name": "Frontier Aviation Services",
+    "address": {
+      "street": "777 Skyway Blvd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201"
+    }
+  },
+  {
+    "companyUuid": "2c4b6d8a-1e3f-4a9c-8d7b-5f1a3c6e9d2b",
+    "companyContact": {
+      "uuid": "5e7a1c3d-4b6f-4a8c-9d2e-7f5b1c3a6d4e"
+    },
+    "name": "Metro Urban Planning",
+    "address": {
+      "street": "1300 Civic Center Dr",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90012"
+    }
+  },
+  {
+    "companyUuid": "3e5c7a9d-2b4f-4a6c-8d1e-5f3b7a2c6d9e",
+    "companyContact": {
+      "uuid": "6a8c1d3e-5b7f-4a9d-8c2e-1f3b5d7a9c4e"
+    },
+    "name": "Lighthouse Marketing",
+    "address": {
+      "street": "215 Beacon St",
+      "city": "Portland",
+      "state": "ME",
+      "zip": "04101"
+    }
+  },
+  {
+    "companyUuid": "4f6d8a1c-3e5b-4a9d-8c7e-2f1b3d5a6c9e",
+    "companyContact": {
+      "uuid": "5bcf639c-ffca-b9e5-cfd2-ae100c7daf5c",
+      "firstName": "Delmor",
+      "lastName": "Roscamp",
+      "phoneNumber": "975-868-6451",
+      "emailList": [
+        "droscampn@google.com",
+        "delmor.roscamp75@gmail.com"
+      ]
+    },
+    "name": "Great Plains Transport",
+    "address": {
+      "street": "455 Rail Yard Rd",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64106"
+    }
+  },
+  {
+    "companyUuid": "6a8c1e3b-4d7f-4a9c-8b2e-5f1a3d6c7e9b",
+    "companyContact": {
+      "uuid": "8c1e3b5d-7a9f-4a6c-9d2e-1f3b5a7c4d6e"
+    },
+    "name": "North Valley Medical Supply",
+    "address": {
+      "street": "822 Health Ave",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55402"
+    }
+  },
+  {
+    "companyUuid": "7b9e2c4d-5f1a-4a8c-9d3e-6f7a1c2b5d9e",
+    "companyContact": {
+      "uuid": "66a77d27-f8bc-cf51-db46-5053677cbc48",
+      "firstName": "Zared",
+      "lastName": "Ashbee",
+      "phoneNumber": "763-796-7222",
+      "emailList": [
+        "zashbee29@imdb.com",
+        "zared.ashbee26@yahoo.com"
+      ]
+    },
+    "name": "Quantum Data Labs",
+    "address": {
+      "street": "600 Silicon Way",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101"
+    }
+  },
+  {
+    "companyUuid": "8c1f3d5a-6b7e-4a9c-8d2e-1f3a5c7b9d4e",
+    "companyContact": {
+      "uuid": "bbdc4f1e-0c3f-5de7-b5df-d276ad643dca",
+      "firstName": "Issie",
+      "lastName": "Haucke",
+      "phoneNumber": "959-771-7323",
+      "emailList": [
+        "ihaucke2l@so-net.ne.jp",
+        "issie.haucke93@outlook.com",
+        "issie.haucke4@gmail.com"
+      ]
+    },
+    "name": "Summit Outdoor Gear",
+    "address": {
+      "street": "100 Alpine Rd",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80302"
+    }
+  },
+  {
+    "companyUuid": "9d2a4c6e-7b1f-4a8c-9d3e-5f1b3c6a7e2d",
+    "companyContact": {
+      "uuid": "4e174aa3-cfb8-c3dc-3fab-b2aa9c4dfe35",
+      "firstName": "Fannie",
+      "lastName": "Haensel",
+      "phoneNumber": "990-895-9443",
+      "emailList": [
+        "fhaenselt@ucla.edu",
+        "fannie.haensel42@gmail.com",
+        "fannie.haensel96@yahoo.com"
+      ]
+    },
+    "name": "Iron River Mining Co",
+    "address": {
+      "street": "44 Quarry Ln",
+      "city": "Duluth",
+      "state": "MN",
+      "zip": "55802"
+    }
+  },
+  {
+    "companyUuid": "ad3c5e7b-8f1a-4a9c-6d2e-5f3b7a1c9e4d",
+    "companyContact": {
+      "uuid": "3a5e7c9d-1b4f-4a8c-6d2e-7f3b1c5a9d4e"
+    },
+    "name": "Capitol Consulting Group",
+    "address": {
+      "street": "1500 K St NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20005"
+    }
+  },
+  {
+    "companyUuid": "be4d6f8a-9c1e-4a7b-8d2f-3a5c7e1b9d6a",
+    "companyContact": {
+      "uuid": "4b6f8a1d-3c5e-4a9c-7d2e-1f3a5b7c9d6e"
+    },
+    "name": "Harborview Shipping",
+    "address": {
+      "street": "72 Dockside Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    }
+  }
+]

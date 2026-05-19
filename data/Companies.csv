@@ -1,0 +1,26 @@
+companyUuid,contactUuid,name,street,city,state,zip
+5b6d2c3c-2a63-4b64-9f6e-7c5b87c9c9e1,0b86cffa-7e9d-ce5f-43df-6918c1938b67,Northstar Logistics,1842 Pinecrest Dr,Denver,CO,80202
+0eab6e74-d8c6-45b4-9b41-55dfc3eae2d5,fec5afdd-8e04-43aa-f333-fbb8073cd154,Silverline Manufacturing,772 Orchard St,Madison,WI,53703
+0c9e1df3-6bb5-4a5c-9c51-0f7b7c7e0c55,36d7aabb-fb62-e8ff-caf3-cf8113a8f4fe,Blue Horizon Tech,905 Market Ave,San Jose,CA,95113
+1a55b7e7-9f7c-4c9a-8c9a-bb0a30fdc7df,6577839d-62f8-fcbc-89a3-eb2caac0c280,Evergreen Holdings,221 Lakeview Rd,Boise,ID,83702
+a3cbec7c-3d4f-4a46-94a2-8db9a9a8c91d,cb2bd66a-d7fd-6aa6-f7db-16b6cfa89aa2,Atlas Industrial,4487 Red Oak Ln,Columbus,OH,43215
+efec68e0-7fa2-4f62-97e4-0c8a0bdfb9b1,fac84d72-5bbe-acb8-239b-ebb48b0c1f78,Granite Peak Construction,6150 Ridgeway Dr,Salt Lake City,UT,84101
+de7b5c1f-6a77-4c59-a7e6-8d5d4f1f5d0a,76458828-2d7c-8323-d23b-af698a1b8cc0,Redwood Analytics,991 Mission St,San Francisco,CA,94105
+c8cfa7e1-1db4-4a23-9c37-8f7a3c3a3d6f,6ea20bec-4b5f-7aa0-e84e-2cabc163a275,Midwest Freight Co,3401 Jackson Blvd,Chicago,IL,60604
+6f8d2e3e-bec5-4f93-bb0f-9c6a1f0c3e54,a4139f34-eda3-5d7a-ccf0-ce9ff34f6b00,Sunridge Energy,772 Desert Bloom Rd,Phoenix,AZ,85004
+b7b3d9c1-43a6-4e7b-9d91-0c3c8a7b9c6e,f1d3474b-e732-a7f6-fde5-19246bf1fb0f,Clearwater Systems,110 Harbor Way,Tampa,FL,33602
+5a3e9b6a-3c9f-4e4d-a2b3-7c1f0e9d6a4b,9faf4eaa-68e7-2bf6-c0e9-396f5cce5f72,Ironclad Security,81 Federal St,Boston,MA,02110
+d0c5e7f8-5f41-45e9-bc4e-2b1c6d9e7f3a,32cd84e2-b2bb-bf71-1a73-80fac727f110,Golden Prairie Foods,129 Harvest Ln,Omaha,NE,68102
+8c1a2e3f-9b7d-4c6e-8a3d-7f5b1c2d4e6a,a472a250-4bcd-6d2c-3e90-aa784aeda15f,Vertex Software Group,505 Innovation Dr,Austin,TX,78701
+7b2d6e5a-1c3f-4a9e-8b6d-5f2c3a7e1b9d,091dd97f-a7d7-ca4d-dd3b-612ddc3d15e0,Pioneer Ag Supply,900 Country Rd,Des Moines,IA,50309
+a5e7c3d1-4b6f-4a9d-8c1e-2f7a5b3d6c9e,ee89b100-ffba-6c0b-9672-ca2e43e9995c,Oak & Stone Retail,447 Commerce St,Nashville,TN,37203
+1e7c9b3d-6a4f-4b8c-9d2a-7f1e5c3b6a4d,c31df8b0-bd59-6c93-86d6-e32657af81f5,Frontier Aviation Services,777 Skyway Blvd,Dallas,TX,75201
+2c4b6d8a-1e3f-4a9c-8d7b-5f1a3c6e9d2b,6e5acc1b-c106-492c-5d09-0aae876a9e93,Metro Urban Planning,1300 Civic Center Dr,Los Angeles,CA,90012
+3e5c7a9d-2b4f-4a6c-8d1e-5f3b7a2c6d9e,d0cde2c1-8657-27ed-7f96-8dfe6dd7cf9e,Lighthouse Marketing,215 Beacon St,Portland,ME,04101
+4f6d8a1c-3e5b-4a9d-8c7e-2f1b3d5a6c9e,5bcf639c-ffca-b9e5-cfd2-ae100c7daf5c,Great Plains Transport,455 Rail Yard Rd,Kansas City,MO,64106
+6a8c1e3b-4d7f-4a9c-8b2e-5f1a3d6c7e9b,a67dee2a-ef4d-02a7-bdc7-cb0cdc11f096,North Valley Medical Supply,822 Health Ave,Minneapolis,MN,55402
+7b9e2c4d-5f1a-4a8c-9d3e-6f7a1c2b5d9e,66a77d27-f8bc-cf51-db46-5053677cbc48,Quantum Data Labs,600 Silicon Way,San Diego,CA,92101
+8c1f3d5a-6b7e-4a9c-8d2e-1f3a5c7b9d4e,bbdc4f1e-0c3f-5de7-b5df-d276ad643dca,Summit Outdoor Gear,100 Alpine Rd,Boulder,CO,80302
+9d2a4c6e-7b1f-4a8c-9d3e-5f1b3c6a7e2d,4e174aa3-cfb8-c3dc-3fab-b2aa9c4dfe35,Iron River Mining Co,44 Quarry Ln,Duluth,MN,55802
+ad3c5e7b-8f1a-4a9c-6d2e-5f3b7a1c9e4d,0f8d157e-5f99-c414-ecca-86e73cd81c4b,Capitol Consulting Group,1500 K St NW,Washington,DC,20005
+be4d6f8a-9c1e-4a7b-8d2f-3a5c7e1b9d6a,f3bba6d5-d66b-914d-df79-d23cae9baa56,Harborview Shipping,72 Dockside Ave,Seattle,WA,98101
