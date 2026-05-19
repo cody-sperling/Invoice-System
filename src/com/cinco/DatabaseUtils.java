@@ -12,11 +12,11 @@ import java.sql.SQLException;
  */
 public class DatabaseUtils {
 
-	private static final String USERNAME = "csperling3";
+	private static final String USERNAME = "redacted";
 
-	private static final String PASSWORD = "Uw0ohngee4uo";
+	private static final String PASSWORD = "redacted";
 
-	private static final String URL = "jdbc:mysql://nuros.unl.edu/csperling3";
+	private static final String URL = "redacted";
 
 	/**
 	 * Creates and returns a connection to Nuros under my information
