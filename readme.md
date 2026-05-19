@@ -3,4 +3,6 @@
 
 Cody Sperling
 csperling3@huskers.unl.edu
-92942130
+
+
+This was originally a semester long project during freshman year
