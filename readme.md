@@ -7,4 +7,4 @@ csperling3@huskers.unl.edu
 
 This was originally a semester long project during freshman year
 
-The original directions for the project can be found here: https://github.com/cbourke/ComputerScienceII/tree/master/assignments/designDoc#readme
+The original directions for the project can be found here: (https://github.com/cbourke/ComputerScienceII/blob/master/assignments/1261-Spring2026/projectOverview.md)
